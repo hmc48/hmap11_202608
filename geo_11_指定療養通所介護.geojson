@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "geo_11_指定療養通所介護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "きりんの部屋【指定療養通所介護】埼玉県さいたま市中央区本町西2-3-9", "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1176512166-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 139.6190004, 35.8829233 ] } },
+{ "type": "Feature", "properties": { "内容": "療養通所介護事業所　鳩ケ谷【指定療養通所介護】川口市坂下町1丁目8番16号", "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1172000463-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 139.735980499999982, 35.83227 ] } },
+{ "type": "Feature", "properties": { "内容": "医療型デイサービス悠・はるか【指定療養通所介護】埼玉県春日部市一ノ割下沖1086番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1190600435-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 139.7588189, 35.9615246 ] } },
+{ "type": "Feature", "properties": { "内容": "地域密着型療養通所介護めぐり【指定療養通所介護】埼玉県越谷市弥十郎582番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1190800449-00&ServiceCd=&Type=search", "url2": "https://www.ripple-c.jp/" }, "geometry": { "type": "Point", "coordinates": [ 139.795686525053355, 35.917314789001139 ] } },
+{ "type": "Feature", "properties": { "内容": "コスモ療養通所　アンジュ【指定療養通所介護】埼玉県　越谷市西方2-10-12", "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1190800704-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 139.798482, 35.8848426 ] } },
+{ "type": "Feature", "properties": { "内容": "在宅支援センター夢のつづき【指定療養通所介護】越谷市三野宮175-１", "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1190800597-00&ServiceCd=&Type=search", "url2": "https://yume.enfe-niji.jp/" }, "geometry": { "type": "Point", "coordinates": [ 139.751322, 35.92846870000001 ] } },
+{ "type": "Feature", "properties": { "内容": "TMG療養デイサービスあい【指定療養通所介護】埼玉県朝霞市西弁財1－8－21ＴＭＧサテライトクリニック朝霞台B棟", "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1192100152-00&ServiceCd=&Type=search", "url2": "https://www.tmg-houmonkango.jp/asakadai/dayservice/" }, "geometry": { "type": "Point", "coordinates": [ 139.5843059, 35.8141906 ] } },
+{ "type": "Feature", "properties": { "内容": "彩西療養通所介護鳩山【指定療養通所介護】埼玉県比企郡鳩山町松ヶ丘四丁目1番4号", "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1173201359-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 139.351811810983122, 35.991537978144983 ] } }
+]
+}
