@@ -3,6 +3,6 @@
 "name": "geo_11_短期入所療養介護(療養病床を有する病院等）",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "医療法人徳洲会　皆野病院【短期入所療養介護(療養病床を有する病院等）】埼玉県秩父郡皆野町皆野2031-1", "url2": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1114801015-00&ServiceCd=&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.1012093, 36.0770979 ] } }
+{ "type": "Feature", "properties": { "内容": "医療法人徳洲会　皆野病院【短期入所療養介護(療養病床を有する病院等）】埼玉県秩父郡皆野町皆野2031-1", "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1114801015-00&ServiceCd=&Type=search", "url2": "https://www.minano-hospital.jp/" }, "geometry": { "type": "Point", "coordinates": [ 139.1012093, 36.0770979 ] } }
 ]
 }

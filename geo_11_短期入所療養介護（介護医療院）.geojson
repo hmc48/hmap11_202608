@@ -3,6 +3,6 @@
 "name": "geo_11_短期入所療養介護（介護医療院）",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "ケア大宮花の丘【短期入所療養介護（介護医療院）】埼玉県さいたま市西区内野本郷９７５－５", "url2": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=11B6500048-00&ServiceCd=551&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.590629299999989, 35.938367900000017 ] } }
+{ "type": "Feature", "properties": { "内容": "ケア大宮花の丘【短期入所療養介護（介護医療院）】埼玉県さいたま市西区内野本郷９７５－５", "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=11B6500048-00&ServiceCd=551&Type=search", "url2": "https://careomiya.maruyamakai.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.590629299999989, 35.938367900000017 ] } }
 ]
 }

@@ -3,7 +3,7 @@
 "name": "geo_11_地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "ハーウィルケア浦和大門【地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】大門880-2", "url2": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1196501496-00&ServiceCd=&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.730715300000014, 35.883843 ] } },
-{ "type": "Feature", "properties": { "内容": "地域密着型特定施設　リーシェガーデン和光【地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】和光市丸山台２丁目－11番－１号リーシェガーデン和光", "url2": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1192300083-00&ServiceCd=&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 139.616978300000028, 35.7841995 ] } }
+{ "type": "Feature", "properties": { "内容": "ハーウィルケア浦和大門【地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】大門880-2", "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1196501496-00&ServiceCd=&Type=search", "url2": "https://harwill.jp/care-urawadaimon/" }, "geometry": { "type": "Point", "coordinates": [ 139.730715300000014, 35.883843 ] } },
+{ "type": "Feature", "properties": { "内容": "地域密着型特定施設　リーシェガーデン和光【地域密着型特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】和光市丸山台２丁目－11番－１号リーシェガーデン和光", "url": "https://www.kaigokensaku.mhlw.go.jp/11/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1192300083-00&ServiceCd=&Type=search", "url2": "http://www.ej-welfare.jp" }, "geometry": { "type": "Point", "coordinates": [ 139.616978300000028, 35.7841995 ] } }
 ]
 }
